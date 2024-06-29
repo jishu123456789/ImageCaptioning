@@ -3,9 +3,6 @@
 ## Task
 The primary task was to perform image captioning on the Flickr Dataset, consisting of Images annotated with 5 captions per Image:
 
-1. One Vs All Classification
-2. 5 Class Classification Problem
-
 ## Datasets
 The dataset was initially divided into a training set and a hold-out test set. For inference the Batch Size was kept as 1 while for training it was set as 32.
 
