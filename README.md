@@ -8,6 +8,7 @@ The dataset was initially divided into a training set and a hold-out test set. F
 
 ## Model
 The Model Consisted of a 3 stage pipeline:
+![Image_Captioning_Model_Pic](https://github.com/jishu123456789/ImageCaptioning/assets/131681225/72d18109-995f-40cc-937c-cec24f8503a0)
 
 ### Pre-Trained ResNet Backbone:
 - Transformed Images were passed through a pre-trained ResNet-101 whose last 2 layers were removed.
