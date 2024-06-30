@@ -37,7 +37,10 @@ The Model Consisted of a 3 stage pipeline:
 - Also other kinds of relative embeddings could be tried like Rotary Positional Encodings(RoPE).
 
 
-
+![Dog_Pic](https://github.com/jishu123456789/ImageCaptioning/assets/131681225/52206c33-31fb-4743-8e85-15de704d1123)
+![Couple_Pic](https://github.com/jishu123456789/ImageCaptioning/assets/131681225/dfb3a6b5-6800-401d-a2c5-0cea3f728f00)
+![Hiking_Pic](https://github.com/jishu123456789/ImageCaptioning/assets/131681225/4a29c87b-d3d6-40b8-a7e8-af4798560c7c)
+![Girl_Pic](https://github.com/jishu123456789/ImageCaptioning/assets/131681225/415573ea-e3fe-4c63-83dd-f06bdc67ed5f)
 
 Overall, this project was very fun to develop from scratch and a was a great learning experience.
 
